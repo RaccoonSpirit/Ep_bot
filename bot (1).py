@@ -4,7 +4,7 @@ import math
 from math import gcd
 from sympy import mod_inverse, isprime
 
-bot=telebot.TeleBot('5870332284:AAGlryL10PpTZKJTjlfTxjphRWlSB5iQQFw')
+bot=telebot.TeleBot('')
 
 #Функция Старт 
  
